@@ -1,0 +1,8 @@
+config:
+  my-first-pulumi-project:frontendPort: "3001"
+  my-first-pulumi-project:backendPort: "3000"
+  my-first-pulumi-project:mongoPort: "27017"
+  my-first-pulumi-project:mongoHost: mongodb://mongo:27017
+  my-first-pulumi-project:database: cart
+  my-first-pulumi-project:nodeEnvironment: development
+  my-first-pulumi-project:protocol: http://
